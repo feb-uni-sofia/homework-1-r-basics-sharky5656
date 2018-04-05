@@ -10,8 +10,15 @@ y
 
 #c) 
 x-y
+
+## NOTE: avoid very long lines
+
 # The result of the last line would be "3 -3 0 0".
-# The reason for that is because of the difference in the length of the two vectors, because they are subtracted element by element.
+# The reason for that is because of the difference in 
+## the length of the two vectors, 
+## because they are subtracted element by element.
+
+## NOTE: Explanation is not clear enough.
 
 #d)
 s <- c(x,y)
